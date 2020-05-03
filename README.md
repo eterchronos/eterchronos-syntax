@@ -2,4 +2,4 @@
 
 A short description of your theme.
 
-![img\editor.png]
+<img src=”img\editor.png”>
