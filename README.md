@@ -2,4 +2,4 @@
 
 A short description of your theme.
 
-![](img\editor.png)
+![https://github.com/eterchronos/eterchronos-syntax/blob/master/img/editor.png]
