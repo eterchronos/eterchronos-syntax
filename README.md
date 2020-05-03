@@ -2,4 +2,4 @@
 
 A short description of your theme.
 
-![F:\ATOM\Atom Theme\eterchronos-syntax\img\editor.png]
+![img\editor.png]
