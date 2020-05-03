@@ -1,4 +1,4 @@
-#Markdown # eterchronos-syntax theme
+# eterchronos-syntax
 
 ## Votre éditeur à la crème glacée.
 ## Your ice cream flavored editor.
