@@ -1,0 +1,16 @@
+{
+  "name": "eterchronos-syntax",
+  "theme": "syntax",
+  "version": "1.0.0",
+  "description": "crémeux comme de la glace",
+  "keywords": [
+    "syntax",
+    "theme",
+    "eterchronos"
+  ],
+  "repository": "https://github.com/eterchronos/eterchronos-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
